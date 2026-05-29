@@ -118,9 +118,9 @@ Model performance was evaluated using:
 
 | Metric | Value |
 |----------|----------|
-| MAE | 3.91 |
-| RMSE | 5.15 |
-| R² | 0.733 |
+| MAE | 3.84 |
+| RMSE | 4.97 |
+| R² | 0.75 |
 
 The XGBRegressor achieved the lowest prediction error and the highest explanatory power among all tested models.
 
